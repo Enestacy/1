@@ -16,7 +16,21 @@ Here is export of main react component
 
 <br/>
 
-We use strict mode to make app work more stable and effective.
+We use strict mode to make app work more stable and effective.<br/>
+<br/>
+
+<br/>
+
+Here is a p tag to display data
+
+Some more description
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 src/App.js
+```javascript
+9              <p>
+10               Edit <code>src/App.js</code> and save to reload.
+11             </p>
+```
 
 <br/>
 
